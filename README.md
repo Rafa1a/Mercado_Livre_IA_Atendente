@@ -1,5 +1,5 @@
 # Projeto - Integração IA Gemini com Mercado Livre
-
+ 
 Este é um projeto que foi desenvolvido para a empresa Allnec, e agora está sendo disponibilizado para que outras pessoas possam implementar soluções semelhantes. O projeto é um backend em Node.js, utilizando Google Cloud Functions, que integra mensagens de clientes no Mercado Livre com uma IA (Gemini) para responder perguntas sobre produtos.
 
 ## Considerações sobre Escalabilidade
